@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #e3dffd;
+}
+
+div {
+  background-color: #e3dffd;
+}
+.name {
+  margin-top: 0;
+  font-family: "Sacramento", cursive;
+  margin-bottom: 10px;
+  color: #66bfbf;
+}
+
+.top-container {
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+.mid-container {
+  font-family: "Merriweather", serif;
+  margin-top: 0px;
+  width: 50%;
+  margin: auto;
+}
+
+.bot-cloud {
+  position: absolute;
+  top: 10px;
+  left: 30px;
+}
+.top-cloud {
+  position: absolute;
+  top: 200px;
+  right: 150px;
+}
+.mountain {
+  width: 1000px;
+}
+.cat-img {
+  width: 100px;
+}
+.bot-container {
+  font-family: "Merriweather", serif;
+  padding-bottom: 80px;
+}
+.name {
+  font-size: 60px;
+}
+.p {
+  line-height: 4;
+  margin-top: 20px;
+  font-size: 20px;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+li {
+  text-align: center;
+}
+.git {
+  text-align: center;
+}
+
+.h2 {
+  margin-top: 0px;
+  padding-top: 80px;
+  font-family: "Merriweather", serif;
+  color: rgb(65, 199, 233);
+}
+
+.cloud3 {
+  position: absolute;
+  top: 600px;
+  right: 1200px;
+  width: 20%;
+}
+.cloud4 {
+  position: absolute;
+  width: 25%;
+}
+.sun {
+  position: absolute;
+  left: 150px;
+  top: 200px;
+  width: 20%;
+}
+
+.hr1 {
+  width: 100%;
+}
+.list {
+  padding: auto;
+}
